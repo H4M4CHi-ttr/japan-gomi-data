@@ -1,0 +1,128 @@
+{
+  "retrieved_at": "2026-10-13",
+  "period": "2026-04--2027-03",
+  "index_url": "https://www.city.yonago.lg.jp/item/60812.htm",
+  "area_url": "https://www.city.yonago.lg.jp/47585.htm",
+  "pdfs": [
+    {
+      "file": "R8_keijo.pdf",
+      "url": "https://www.city.yonago.lg.jp/secure/60812/R8_keijo.pdf",
+      "sha256": "21f0e316628a8dd81acfc4ef20455eb0a6974d62710f8e4ba7d1eeeda7c4985b"
+    },
+    {
+      "file": "R8_meidou.pdf",
+      "url": "https://www.city.yonago.lg.jp/secure/60812/R8_meidou.pdf",
+      "sha256": "60cb0492f40030f95e85e01b233dcec81d4231c7c4da844db00741bc6594a311"
+    },
+    {
+      "file": "R8_shusyo.pdf",
+      "url": "https://www.city.yonago.lg.jp/secure/60812/R8_shusyo.pdf",
+      "sha256": "139d325cc1ed26a00ff8535e11e5d2274040687129e84d9c2062ee411702f0b5"
+    },
+    {
+      "file": "R8_gihou.pdf",
+      "url": "https://www.city.yonago.lg.jp/secure/60812/R8_gihou.pdf",
+      "sha256": "207b1320808e6116e21c145599abb0f45bc89d0a85480dd491124d06cce6852e"
+    },
+    {
+      "file": "R8_sumiyoshi.pdf",
+      "url": "https://www.city.yonago.lg.jp/secure/60812/R8_sumiyoshi.pdf",
+      "sha256": "8936417d64dc9786b064c3147f9db71828c5ff9176b2cd79edcb23e88634685f"
+    },
+    {
+      "file": "R8_kuzumo.pdf",
+      "url": "https://www.city.yonago.lg.jp/secure/60812/R8_kuzumo.pdf",
+      "sha256": "65586a3d9095639500bd7bb02cc077e87f6d0d4d1ae3db8eb087e13bb9332596"
+    },
+    {
+      "file": "R8_kamo.pdf",
+      "url": "https://www.city.yonago.lg.jp/secure/60812/R8_kamo.pdf",
+      "sha256": "e987d130f32273a164a2ecb136e477bb68341ac6871685a30ded0034f22237e6"
+    },
+    {
+      "file": "R8_kawasaki.pdf",
+      "url": "https://www.city.yonago.lg.jp/secure/60812/R8_kawasaki.pdf",
+      "sha256": "2a7a3e6000d8d921a1e7c597621708346f3cd9843bb4587d28760881f141e71b"
+    },
+    {
+      "file": "R8_hukuikehigashi.pdf",
+      "url": "https://www.city.yonago.lg.jp/secure/60812/R8_hukuikehigashi.pdf",
+      "sha256": "a8a227945d48b811a4b4d85f0fb0dba44c11e6c8f5bcd3be9625d449a3923374"
+    },
+    {
+      "file": "R8_hukuikenishi.pdf",
+      "url": "https://www.city.yonago.lg.jp/secure/60812/R8_hukuikenishi.pdf",
+      "sha256": "983768e84b07ee7f1207e0b5bb15dfec7ab8eb61bd295a360b6cc75f406499cc"
+    },
+    {
+      "file": "R8_hukuyonehigashi.pdf",
+      "url": "https://www.city.yonago.lg.jp/secure/60812/R8_hukuyonehigashi.pdf",
+      "sha256": "7da1a8f6c32c2fce70f7f87ffbb5b6ed8c3c6eaaa35d4a4e4c491a03a90504d4"
+    },
+    {
+      "file": "R8_hukuyonenishi.pdf",
+      "url": "https://www.city.yonago.lg.jp/secure/60812/R8_hukuyonenishi.pdf",
+      "sha256": "4e871ba43b1ef7eeddbab652a3b276acaf5ca48c7a20b3b310341e405c7926c4"
+    },
+    {
+      "file": "R8_hikona.pdf",
+      "url": "https://www.city.yonago.lg.jp/secure/60812/R8_hikona.pdf",
+      "sha256": "50232c398ce206bc90eac38c7beafbf0a39c549a85e08a6be9c4a382c860b635"
+    },
+    {
+      "file": "R8_sakitsu.pdf",
+      "url": "https://www.city.yonago.lg.jp/secure/60812/R8_sakitsu.pdf",
+      "sha256": "8fa609ca8d8e667a4a4f269f6d3cefa635e0ce67bafe487b1d41fb247a00e5c8"
+    },
+    {
+      "file": "R8_oshinozu_wada.pdf",
+      "url": "https://www.city.yonago.lg.jp/secure/60812/R8_oshinozu_wada.pdf",
+      "sha256": "947f2b288a09195558703eef6439e5db02c351ceb59e3faeb3f2afce04b7246e"
+    },
+    {
+      "file": "R8_tomimasu_yomi.pdf",
+      "url": "https://www.city.yonago.lg.jp/secure/60812/R8_tomimasu_yomi.pdf",
+      "sha256": "a72159514eceeea53dbc0f8c0006cefb734cb40526e8b360decfebdf9c6f984c"
+    },
+    {
+      "file": "R8_narumi_syoutoku.pdf",
+      "url": "https://www.city.yonago.lg.jp/secure/60812/R8_narumi_syoutoku.pdf",
+      "sha256": "ad14bdae7f5100942e9c60a95639ddf70a1243a0daffb1e4ab171c1e4315dc72"
+    },
+    {
+      "file": "R8_nagae.pdf",
+      "url": "https://www.city.yonago.lg.jp/secure/60812/R8_nagae.pdf",
+      "sha256": "1f89a438127bff26d4950f98a353860ca9a792a92d81847cd01efa1b2d94f498"
+    },
+    {
+      "file": "R8_gosengoku.pdf",
+      "url": "https://www.city.yonago.lg.jp/secure/60812/R8_gosengoku.pdf",
+      "sha256": "b0a3f1d05e9236137d02e0918645290ecd064c6f789d99f4f31429baeb28b08a"
+    },
+    {
+      "file": "R8_iwao_ootaka.pdf",
+      "url": "https://www.city.yonago.lg.jp/secure/60812/R8_iwao_ootaka.pdf",
+      "sha256": "1bd9374145089f121341551308e66697cbfb58f7ac7066efdaf0eca94de8fce0"
+    },
+    {
+      "file": "R8_kasuga_agata.pdf",
+      "url": "https://www.city.yonago.lg.jp/secure/60812/R8_kasuga_agata.pdf",
+      "sha256": "267d87357f06349914388c1d9b93d7ccb1d659b94af945ef928e113e99d7724b"
+    },
+    {
+      "file": "R8_yodoe.pdf",
+      "url": "https://www.city.yonago.lg.jp/secure/60812/R8_yodoe.pdf",
+      "sha256": "8030a1b0524c76d2089388062ae816177215210574c2b5ca3312afd6e11968cd"
+    },
+    {
+      "file": "R8_nishibara_udagawa.pdf",
+      "url": "https://www.city.yonago.lg.jp/secure/60812/R8_nishibara_udagawa.pdf",
+      "sha256": "50fe6ffd5744de370939aad939b731746561ba2ac7e399fcc912d91b15fdb7c2"
+    },
+    {
+      "file": "R8_yamato.pdf",
+      "url": "https://www.city.yonago.lg.jp/secure/60812/R8_yamato.pdf",
+      "sha256": "222d17e9564b36fc502c0088384cecef41b3318d2485d52f5c314a72ae6910cc"
+    }
+  ]
+}

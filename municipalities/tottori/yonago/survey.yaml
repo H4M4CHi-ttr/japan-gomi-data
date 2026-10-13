@@ -1,0 +1,29 @@
+code: '31202'
+handle: yonago
+name_ja: 米子市
+status: collected
+source_type: pdf-text
+difficulty: 3
+granularity: dates
+district_count: 30
+schedule_url: https://www.city.yonago.lg.jp/item/60812.htm
+calendar_urls:
+  - https://www.city.yonago.lg.jp/item/60812.htm
+verify_sources:
+  - https://www.city.yonago.lg.jp/item/60812.htm
+  - https://www.city.yonago.lg.jp/47585.htm
+license: proprietary-site-facts-only
+yearend: calendar-explicit
+notes: >-
+  【収録済 2026-10-13】令和8年度（掲載2026-02-26）の24種類の地区別PDFが30地区をカバーする。
+  実期間は2026-04-01〜2027-03-31。各13ページ（表紙＋月別12ページ）にはテキスト層と罫線がある。
+  PDFの通常のfind_tablesは文字・塗り矩形の辺を罫線として誤認するため、カレンダー外枠と同色の罫線だけを使用する。
+  斜め分割セル（日曜24/31、大和の8月土曜1/8等）、別行の丸印、健康イベントの時刻が品目の間に入る例を検査する。
+  旧淀江町の発泡スチロールは缶・ビンと別日。祝日には可燃だけ収集、他種別を別日へ移す例があり、一括除外しない。
+  町名表157行・239町丁目・259地区候補。複数地区にまたがる町の番地境界は未公表で確認が必要。
+  元資料の著作権ページはhttps://www.city.yonago.lg.jp/1085.htm。
+  文書・画像の権利は原則市に帰属し資料使用の相談を案内するが、オープンライセンス・個別許諾は確認していない。
+  PDFや図版、広告、説明文を転載せず、日付・種別・地域対応の事実を独自形式へ整理する。
+  元資料をCC BY 4.0と表示しない。帰属、取得日、全PDF URL・SHA-256はmeta.yamlとsources.jsonへ記録する。
+  全8760日枠を自己照合し、通常HTML表と比較して例外日一覧を生成する。
+  独立した公式の全実日付ソースは未確認で、PDF本体の全セルを目視したとは主張しない。
