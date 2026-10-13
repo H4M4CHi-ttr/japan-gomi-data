@@ -1,0 +1,27 @@
+categories:
+  - burnable
+  - non_burnable
+  - oversized
+  - beverage_can
+  - glass_bottle
+  - plastic
+  - pet_bottle
+  - paper
+  - hazardous
+overrides:
+  burnable: { label: 可燃ごみ }
+  non_burnable: { label: 不燃ごみ }
+  oversized: { label: 不燃性粗大ごみ }
+  beverage_can: { label: 缶類 }
+  glass_bottle: { label: ビン類 }
+  plastic: { label: 白色発泡スチロール・トレー, short: 白色発泡 }
+  paper: { label: 古紙類 }
+  hazardous: { label: 電池類・蛍光管等, short: 電池等 }
+groups:
+  - label: 不燃・不燃性粗大ごみ
+    members: [non_burnable, oversized]
+  - label: 缶・ビン類
+    members: [beverage_can, glass_bottle]
+  - label: 缶・ビン類・白色発泡スチロール・トレー
+    members: [beverage_can, glass_bottle, plastic]
+    note: 規則が一致する米子地区だけに適用。旧淀江町区域では発泡スチロールが別日。
